@@ -1,3 +1,5 @@
+## PROJECT DESCRIPTION BELOW
+
 # Recruitment Sim
 
 Your task is to write a simple race simulation that will output the optimal constant speed for the World Solar Challenge, a ~3000km race starting in Darwin, Australia and ending in Adelaide, Australia. Your primary goal is to fill in the code and complete the `Sim` class and the `Car` class.
